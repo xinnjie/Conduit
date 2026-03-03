@@ -251,6 +251,7 @@ public enum ModelRegistry {
     /// - 5 HuggingFace cloud models
     /// - 3 Kimi cloud models
     /// - 1 Apple Foundation Model
+    /// - 3 Kimi cloud models
     ///
     /// Models are organized by provider and capability for easy discovery.
     public static let allModels: [ModelInfo] = [
